@@ -1,0 +1,15 @@
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/Loops.AssemblyInfoInputs.cache
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/Loops.AssemblyInfo.cs
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/Loops.csproj.CoreCompileInputs.cache
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/Loops.sourcelink.json
+/Users/ishakc/Desktop/dotnet/Loops/bin/Debug/net8.0/Loops
+/Users/ishakc/Desktop/dotnet/Loops/bin/Debug/net8.0/Loops.deps.json
+/Users/ishakc/Desktop/dotnet/Loops/bin/Debug/net8.0/Loops.runtimeconfig.json
+/Users/ishakc/Desktop/dotnet/Loops/bin/Debug/net8.0/Loops.dll
+/Users/ishakc/Desktop/dotnet/Loops/bin/Debug/net8.0/Loops.pdb
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/Loops.dll
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/refint/Loops.dll
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/Loops.pdb
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/Loops.genruntimeconfig.cache
+/Users/ishakc/Desktop/dotnet/Loops/obj/Debug/net8.0/ref/Loops.dll
